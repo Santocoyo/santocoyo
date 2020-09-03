@@ -2,6 +2,8 @@
 
 ## Alejandro Santoscoy
 
+<img src="https://github.com/Santocoyo/santocoyo/blob/master/images/AlexKawaii.jpeg">
+
 <!--
 **Santocoyo/santocoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
