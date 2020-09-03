@@ -4,7 +4,7 @@
 
 ## Alejandro Santoscoy
 
-I'm a Physics Engineer Student from Universidad Autónoma de Yucatán
+I'm a Physics Engineer Student from the Autonomous University of Yucatan
 
 
 
