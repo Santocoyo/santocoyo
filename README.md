@@ -1,8 +1,12 @@
+<img src="https://github.com/Santocoyo/santocoyo/blob/master/images/AlexKawaii.jpeg" width="20%" align="left">
+
 ### Biography 👋 
 
 ## Alejandro Santoscoy
 
-<img src="https://github.com/Santocoyo/santocoyo/blob/master/images/AlexKawaii.jpeg">
+I'm a Physics Engineer Student from Universidad Autónoma de Yucatán
+
+
 
 <!--
 **Santocoyo/santocoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
