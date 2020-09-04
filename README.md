@@ -1,4 +1,4 @@
-<img src="https://github.com/Santocoyo/santocoyo/blob/master/images/AlexKawaii.jpeg" width="20%" align="left">
+<img src="https://github.com/Santocoyo/santocoyo/blob/master/images/AlexKawaii.jpeg" width="20%" align="right">
 
 ### Biography 👋 
 
