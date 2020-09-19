@@ -1,8 +1,8 @@
 <img src="https://github.com/Santocoyo/santocoyo/blob/master/images/AlexKawaii.jpeg" width="20%" align="right">
 
-### Biography 👋 
+### Hello there! 👋 
 
-## Alejandro Santoscoy
+## I'm Alejandro Santoscoy
 
 I'm a Physics Engineer Student from the Autonomous University of Yucatan in the Faculty of Engineering
 
