@@ -4,9 +4,13 @@
 
 ## I'm Alejandro Santoscoy
 
-I'm a Physics Engineer Student from the Autonomous University of Yucatan in the Faculty of Engineering
+I'm a Physics Engineer Student from the Autonomous University of Yucatan in the Faculty of Engineering.
 
-### Projects
+Web developer on the official [AEIF](https://aeifmx.com), Game Developer on the DAA and lover of physics science :atom: and space technology :rocket:
+
+<h2 align="center">Projects</h2>
+
+<p align="center">Some of my main projects</p>
 
 - CanSat PEU-UNAM 2019
 - DAAF
